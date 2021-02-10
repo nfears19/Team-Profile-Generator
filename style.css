@@ -1,0 +1,40 @@
+body {
+    text-emphasis: none;
+}
+
+.jumbotron {
+    text-emphasis: none;
+}
+
+.container {
+    text-emphasis: none;
+}
+
+.card {
+    width: 25%;
+    position: relative;
+    margin: 0px;
+    border-radius: 1rem;
+}
+
+.card-header {
+    text-emphasis: none;
+}
+
+.card-body {
+    text-emphasis: none;
+}
+
+.card-title {
+    text-emphasis: none;
+}
+
+.card-text {
+    text-emphasis: none;
+}
+
+.btn {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+}
